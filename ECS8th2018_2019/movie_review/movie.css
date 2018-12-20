@@ -1,1 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Charm');
 
+
+html {
+  width: 320px;
+  margin:0 auto 0 auto;
+  font-family: 'Century Gothic', sans-serif;
+  font-size:18px;
+  BACKGROUNd-image:url(/images/textures/light2a.png);
+  background-color: rgb(149, 244, 245);
+}
+h1, h2, a, footer{
+  color: rgb(0, 0, 255);
+  text-shadow: 0px 1px 0px blue,
+               1px 0px 1px red;
+               text-align: center;
+}
+
+a:hover{
+  color: rgb(130, 50, 80);
+} 
+
+header, footer {
+  text-align: center;
+}
+img {
+  border: 10PX inset GREEN;
+}
+ul {
+  list-style-image: url(/images/icons/icon1.png);
+}
