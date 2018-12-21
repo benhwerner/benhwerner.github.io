@@ -17,3 +17,9 @@ img {
   margin: 14px 0 10px 0;
   text-align: justify;
 }
+header,footer{
+  background: lightgreen;
+  border: solid;
+  text-align: center;
+  margin: 0 -10px;
+}
