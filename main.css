@@ -3,7 +3,7 @@ html {
  font: bold 20px 'Century Gothic', sans-serif;
  color: white;
 }
-h1 {  
+h1,h2 {  
   font: normal 40px 'Trebuchet MS', sans-serif;
   margin: 0;
   text-shadow: -3px 0 red, 3px 0 cyan;
