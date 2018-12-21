@@ -1,3 +1,6 @@
 html {
- background-color:lightblue; 
+ background-color:lightblue;
+ font: bold 20px 'Century Gothic', sans-serif;
+ color: white;
+ 
 }
