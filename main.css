@@ -2,5 +2,18 @@ html {
  background-color:lightblue;
  font: bold 20px 'Century Gothic', sans-serif;
  color: white;
- 
+}
+h1 {  
+  font: normal 40px 'Trebuchet MS', sans-serif;
+  margin: 0;
+  text-shadow: -3px 0 red, 3px 0 cyan;
+}
+img {
+  border: 7px outset mediumslateblue;
+  margin: 10px;
+  width: 115px;
+  box-shadow: 0 10px 10px 5px darkgreen;
+ p {
+  margin: 14px 0 10px 0;
+  text-align: justify;
 }
